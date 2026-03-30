@@ -1,6 +1,6 @@
 from domain.heroes import Cloud, Aerith, Tifa
 
-from domain.enemies import Reno
+from domain.enemy import Reno
 
 # Importamos la interfaz de consola (para mostrar texto y pedir input)
 from ui.console import ConsoleUI
